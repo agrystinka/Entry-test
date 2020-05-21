@@ -30,7 +30,7 @@ g++ task1.cpp -o steps
 ```bash
 g++ task2.cpp -o cables
 
-./steps $N $D
+./cables $N $D
 ```
 - Task-3
 ```bash
